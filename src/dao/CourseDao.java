@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CourseDao {
-    //操作数据库的对象
+    //操作数据库的对象，对其进行操作
     DBManager dbManager = new DBManager();
     //查询所有记录
     public List<Course> findAllCourse(String searchKey)  {

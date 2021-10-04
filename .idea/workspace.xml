@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="198f5a04-7f6d-4606-a258-7987c64e8a2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/dao/CourseDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/dao/CourseDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/Login$MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/Login$MyListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/EleCourse$MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/EleCourse$MyListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/EleCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/EleCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/MyStudentAllCourse$MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/MyStudentAllCourse$MyListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/MyStudentAllCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/ui/student/MyStudentAllCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/utils/DBManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSwing_StudentMS/utils/DBManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dao/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/CourseDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/student/EleCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/student/EleCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/student/MyStudentAllCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/student/MyStudentAllCourse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +20,7 @@
         <counts>
           <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -41,14 +29,14 @@
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PNG" value="9" />
           <entry key="class" value="1" />
-          <entry key="java" value="447" />
+          <entry key="java" value="449" />
           <entry key="png" value="34" />
         </counts>
       </usages-collector>
@@ -56,49 +44,28 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Image" value="43" />
-          <entry key="JAVA" value="447" />
+          <entry key="JAVA" value="449" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8492" />
+          <entry key="java" value="8515" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8492" />
+          <entry key="JAVA" value="8515" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ui/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1250">
-              <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ui/admin/AdminHome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dao/CourseDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="160" column="24" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="29" />
+            <state relative-caret-position="70">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#createCourse#0;class#CourseDao#0" />
@@ -106,37 +73,6 @@
                 <element signature="method#findNoSelectCourse#0;class#CourseDao#0" />
                 <element signature="method#findCourseByTeacherNum#0;class#CourseDao#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pojo/TeacherCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="23" selection-start-line="4" selection-end-line="5" />
-              <folding>
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ui/teacher/MarkCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dao/StudentCourseDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="33" column="49" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -201,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/dao/TeacherCourseDao.java" />
         <option value="$PROJECT_DIR$/src/pojo/MyCourse.java" />
         <option value="$PROJECT_DIR$/src/pojo/TeacherCourse.java" />
-        <option value="$PROJECT_DIR$/src/dao/StudentCourseDao.java" />
         <option value="$PROJECT_DIR$/src/ui/teacher/Mark.java" />
         <option value="$PROJECT_DIR$/src/ui/teacher/TeacherAllCourse.java" />
         <option value="$PROJECT_DIR$/src/ui/teacher/TeacherHome.java" />
@@ -214,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/ui/admin/AddTeacher.java" />
         <option value="$PROJECT_DIR$/src/pojo/Course.java" />
         <option value="$PROJECT_DIR$/src/dao/TeacherDao.java" />
-        <option value="$PROJECT_DIR$/src/dao/CourseDao.java" />
         <option value="$PROJECT_DIR$/src/utils/DBManager.java" />
         <option value="$PROJECT_DIR$/src/ui/student/StudentHome.java" />
         <option value="$PROJECT_DIR$/src/ui/Login.java" />
@@ -222,6 +156,8 @@
         <option value="$PROJECT_DIR$/src/ui/student/EleCourse.java" />
         <option value="$PROJECT_DIR$/src/ui/admin/AdminHome.java" />
         <option value="$PROJECT_DIR$/src/ui/teacher/MarkCourse.java" />
+        <option value="$PROJECT_DIR$/src/dao/StudentCourseDao.java" />
+        <option value="$PROJECT_DIR$/src/dao/CourseDao.java" />
       </list>
     </option>
   </component>
@@ -315,20 +251,7 @@
               <item name="JavaSwing_StudentMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSwing_StudentMS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSwing_StudentMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSwing_StudentMS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSwing_StudentMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSwing_StudentMS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +264,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/software/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632918371210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1633318978336" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/JAVA1/mysql/mysql-connector-java-5.0.4-bin.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -475,11 +398,12 @@
       <workItem from="1632834142073" duration="5247000" />
       <workItem from="1632914687430" duration="3164000" />
       <workItem from="1633136754398" duration="22000" />
+      <workItem from="1633318785031" duration="589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69448000" />
+    <option name="totallyTimeSpent" value="70037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,7 +418,7 @@
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19159256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +434,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32723948" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.50457036" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.50457036" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32846716" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -790,20 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/CourseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="160" column="24" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#createCourse#0;class#CourseDao#0" />
-            <element signature="method#findAllMyCourse#0;class#CourseDao#0" />
-            <element signature="method#findNoSelectCourse#0;class#CourseDao#0" />
-            <element signature="method#findCourseByTeacherNum#0;class#CourseDao#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pojo/TeacherCourse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -824,8 +734,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/StudentCourseDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" column="49" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="49" />
+        <state relative-caret-position="131">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/CourseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createCourse#0;class#CourseDao#0" />
+            <element signature="method#findAllMyCourse#0;class#CourseDao#0" />
+            <element signature="method#findNoSelectCourse#0;class#CourseDao#0" />
+            <element signature="method#findCourseByTeacherNum#0;class#CourseDao#0" />
+          </folding>
         </state>
       </provider>
     </entry>
