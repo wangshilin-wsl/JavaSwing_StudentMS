@@ -6,13 +6,13 @@ import pojo.MyCourse;
 import pojo.Teacher;
 import pojo.TeacherCourse;
 import utils.DBManager;
-
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class CourseDao {
+    //操作数据库的对象
     DBManager dbManager = new DBManager();
     //查询所有记录
     public List<Course> findAllCourse(String searchKey)  {

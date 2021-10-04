@@ -4,6 +4,7 @@ import dao.CourseDao;
 import dao.StudentCourseDao;
 import pojo.Course;
 import pojo.StudentCourse;
+import ui.Login;
 
 import javax.swing.*;
 import java.awt.*;
@@ -29,7 +30,7 @@ public class EleCourse {
                     JOptionPane.showMessageDialog(null, "字段不能为空!!!");
                 }else {
                     StudentCourse studentCourse = new StudentCourse();
-                    studentCourse.setStudentNum(1);
+                    studentCourse.setStudentNum(Login.id);
                     studentCourse.setCourseNum(list.get(jt1.getSelectedIndex()-1).getCourseNum());
                     studentCourse.setTerm(jt2.getText());
                     new StudentCourseDao().createStudent(studentCourse);
@@ -46,7 +47,7 @@ public class EleCourse {
     }
 
     public void add() {
-        list= new CourseDao().findNoSelectCourse(1);
+        list= new CourseDao().findNoSelectCourse(Login.id);
         jf.setResizable(false);
         Font font=new Font("黑体",Font.BOLD,25);
         jb1.addActionListener(new MyListener());

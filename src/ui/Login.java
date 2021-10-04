@@ -21,10 +21,9 @@ public class Login {
     JTextField t2=new JTextField(30);
     JTextField t3=new JTextField(30);
     JComboBox cmb=new JComboBox();    //创建JComboBox
-    public static Integer id;
+    public static  Integer id;
     public static String password;
     class MyListener implements ActionListener {
-
         @Override
         public void actionPerformed(ActionEvent e) {
             if(e.getSource()==jb1) {

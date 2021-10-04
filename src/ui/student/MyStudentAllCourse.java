@@ -3,6 +3,7 @@ package ui.student;
 import dao.CourseDao;
 import dao.StudentCourseDao;
 import pojo.MyCourse;
+import ui.Login;
 import utils.JTableUtils;
 
 import javax.swing.*;
@@ -83,9 +84,9 @@ public class MyStudentAllCourse {
         int index = jt2.getSelectedIndex()-1;
         List<MyCourse> all;
         if(index >=0){
-            all = new CourseDao().findAllMyCourse(1,jt.getText(),sem.get(index));
+            all = new CourseDao().findAllMyCourse(Login.id,jt.getText(),sem.get(index));
         }else {
-            all = new CourseDao().findAllMyCourse(1,jt.getText(),"---请选择---");
+            all = new CourseDao().findAllMyCourse(Login.id,jt.getText(),"---请选择---");
         }
 
 
